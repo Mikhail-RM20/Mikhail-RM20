@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Михаил Митрохин</h1>
-  <p>Backend-разработчик • Python</p>
+  <p>Backend-developer • Python</p>
   
   <!-- Кнопки контактов -->
   <a href="https://t.me/mihrommi"><img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&style=flat-square" alt="Telegram"></a>
@@ -37,7 +37,7 @@ I specialize in creating REST APIs, working with relational databases, and setti
 ## Key skills
 - **Language:** Python3+
 - **Frameworks:** Flask, FastAPI.
-- **Databases:** PostgreSQL, SQLite (для тестов), SQLAlchemy (ORM).
+- **Databases:** PostgreSQL, SQLite, SQLAlchemy (ORM).
 - **Infrastructure:** Docker, docker-compose, Nginx, Linux (Debian/Ubuntu).
 - **DevOps:** GitLab CI/CD, GitHub Actions
 - **Testing:** Pytest, Unittest
