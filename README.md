@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <h1>Михаил Митрохин</h1>
+  <h1>Mikhail Mitrokhin</h1>
   <p>Backend-developer • Python</p>
   
   <!-- Кнопки контактов -->
